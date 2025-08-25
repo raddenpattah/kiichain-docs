@@ -99,19 +99,19 @@ After writing the smart contract, go to the Solidity Compiler section and select
 
 Then press “Compile” button under the Compiler selector.
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt="" width="320"><figcaption></figcaption></figure>
 
 #### 3. Select your Metamask wallet as Deploy environment
 
 In the “Deploy and Run Transactions” section, move to the Environment and select your Metamask Provider, remember you must be connected to KiiChain Testnet
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 #### 4. Deploy Smart contract
 
 Select the smart contract to be deployed and write the Constructor parameters is Remix detects them
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Finally, you can interact with the different functions in the same section above the Deploy button.
 
@@ -280,13 +280,13 @@ npx thirdweb deploy -k yourApiKey
 
 Open the link and fill in the fields.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 In chain choose
 
 add Custom Network
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="364"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt="" width="364"><figcaption></figcaption></figure>
 
 Finally, select Deploy Now and accept the transaction in your wallet.
 
