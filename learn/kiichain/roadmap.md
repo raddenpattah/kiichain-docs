@@ -46,7 +46,7 @@ Q3:&#x20;
 * Kii RWA protocol dApp that lets users manage cross-chain transfers of their RWA tokens.
 * KIIEX API integrations for 30+ countries.
 * DASP license in El Salvador for both KIIEX and KiiChain.
-* EVM gas free abstraction for stablecoins.&#x20;
+* EVM gas fee abstraction for stablecoins.&#x20;
 
 Q4:&#x20;
 
