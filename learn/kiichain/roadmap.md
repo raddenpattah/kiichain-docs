@@ -14,7 +14,7 @@ Q1: KiiChain Dev Net.
 
 Q2: KIIEX build started from our OTC operation to scalable technology ([https://k](https://exchange.kiiex.io/login)[iiex](https://kiiex.io/)).
 
-Q3: KIIEX Beta was launched, testing trading and payments in mainnet in a whitelisted environment (over $50m in total volume). Achieved positive EBIDTA and net margin.&#x20;
+Q3: KIIEX Beta was launched, testing trading and payments in mainnet in a whitelist-only environment (over $50m in total volume). Achieved positive EBITDA and net margin.&#x20;
 
 Q4: Kii Mobile wallet was developed for version 1 of testnet ([App Store Reference](https://apps.apple.com/co/app/kii-mobile/id6474740411)).
 
