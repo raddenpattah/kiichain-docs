@@ -10,7 +10,7 @@ Inception. Internal building. OTC trading.
 
 ### 2023:
 
-Q1: KiiChain Dev Net.
+Q1: KiiChain Devnet.
 
 Q2: KIIEX build started from our OTC operation to scalable technology ([https://k](https://exchange.kiiex.io/login)[iiex](https://kiiex.io/)).
 
