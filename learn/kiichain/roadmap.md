@@ -40,7 +40,7 @@ Q1 & Q2:&#x20;
 
 Q3:&#x20;
 
-* Public sale, listing and mainnet.&#x20;
+* Public sale, listing, and mainnet launch.&#x20;
 * KIIDEX integration into KIIEX with listing of RWA products.&#x20;
 * PayFi module integration with mainnet.
 * Kii RWA protocol dApp that lets users manage cross-chain transfers of their RWA tokens.
